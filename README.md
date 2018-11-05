@@ -8,7 +8,7 @@ In this project, we will demonstrate how to compress and decompress a text file 
       * Encoding the text into Huffman string(binary sequence), and save it as binary file in [ASCII](https://www.eso.org/~ndelmott/ascii.html) hex format. 
   
  3.  **Decoding the file** ([main_decode.ipynb](https://github.com/ybruce61414/Data-Structures/blob/master/Tree/HuffmanCoding/main_decode.ipynb)):
-     * Decode the binary file using decimal to binary converter, and convert it into text data via the Huffman code.  
+     * Decoding the binary file using decimal to binary converter, and convert it into text data via the Huffman code.  
          
 
 ## What is Huffman coding?
