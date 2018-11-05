@@ -3,12 +3,12 @@
 In this project, we will demonstrate how to compress and decompress a text file using Huffman coding. The project is divided into three main parts:
 
  1.  **Constructing Huffman code** ( [HuffmanCode.ipynb](https://github.com/ybruce61414/Data-Structures/blob/master/Tree/HuffmanCoding/HuffmanCode.ipynb)):
-     * Show how to build a **Huffman tree** from input characters, and generate **Huffman codes** by traversing the Huffman tree. 
+     * Building a **Huffman tree** from input characters, and generating **Huffman codes** by traversing the Huffman tree. 
  2.  **Encoding the file** ([main_encode.ipynb](https://github.com/ybruce61414/Data-Structures/blob/master/Tree/HuffmanCoding/main_encode.ipynb)):
-      * Demonstrate how to encode the text into Huffman string(binary sequence), and save it as binary file in [ASCII](https://www.eso.org/~ndelmott/ascii.html) hex format. 
+      * Encoding the text into Huffman string(binary sequence), and save it as binary file in [ASCII](https://www.eso.org/~ndelmott/ascii.html) hex format. 
   
  3.  **Decoding the file** ([main_decode.ipynb](https://github.com/ybruce61414/Data-Structures/blob/master/Tree/HuffmanCoding/main_decode.ipynb)):
-     * Demonstrate how to decode the binary file using decimal to binary converter, and convert it into text data via the Huffman code.  
+     * Decode the binary file using decimal to binary converter, and convert it into text data via the Huffman code.  
          
 
 ## What is Huffman coding?
