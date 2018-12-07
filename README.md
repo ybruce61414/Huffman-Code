@@ -44,7 +44,7 @@ Normally, each character in a text file is stored in eight bits using an encodin
    ``` 
    
  ## Brief look at Constructing Huffman code
- In this section, we briefly introduce our method to produce the tree and Huffman code with the code fragment. Firstly, we let the basic element be the class `Huffman_node()` to store the **input characters** and its corresponding **frequencies**, and define the `repr()` method to print out the status of the nodes. 
+ In this section, we briefly introduce our method to produce the Huffman tree with the code fragment. Firstly, we let the basic element be the class `Huffman_node()` to store the **input characters** and its corresponding **frequencies**, and define the `repr()` method to print out the status of the nodes. 
  
  ```python
  class Huffman_node():
