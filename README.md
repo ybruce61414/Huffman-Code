@@ -1,4 +1,4 @@
-# Huffman Coding - Python Implementation
+# Huffman Coding
 ## Project Description
 In this project, we will demonstrate how to compress and decompress a text file using Huffman coding. The project is divided into three main parts:
 
